@@ -1,0 +1,8 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+Output:
+
+{
+ "full_name": "https://github.com/Pavtra22/mcino-Introduction-to-Git-and-GitHub",
+ "fork": true
+}

@@ -1,0 +1,8 @@
+git branch -a
+
+Output:
+
+* main
+  bug-fix-typo
+  remotes/origin/main
+  remotes/origin/bug-fix-typo

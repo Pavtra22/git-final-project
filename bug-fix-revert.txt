@@ -1,0 +1,13 @@
+curl -X GET https://api.github.com/repos/pavtra22/mcino-Introduction-to-Git-and-GitHub/pulls
+
+Output:
+
+{
+ "state": "open",
+ "title": "Bug fix typo",
+ "head": {
+   "repo": {
+     "fork": true
+   }
+ }
+}
