@@ -1,32 +1,22 @@
 # Simple Interest Calculator
 
-This project contains a simple interest calculator implemented in multiple ways:
-- Bash script calculator
-- Node.js backend API
-- React frontend interface
+This project provides a simple interest calculator implemented using a Bash script.
 
-## Formula
+## Description
+The calculator computes simple interest based on user input.
+
+The formula used is:
+
 Simple Interest = (Principal × Rate × Time) / 100
 
-## Technologies Used
-- Git & GitHub
-- Bash Script
-- Node.js (Express)
-- React
+## Inputs
+The user is asked to enter:
+- Principal amount
+- Rate of interest
+- Time period
 
-## How to Run
+## Output
+The script calculates and displays the simple interest.
 
-### Bash Script
-Run the calculator in terminal:
-
-bash simple-interest.sh
-
-### Backend
-cd backend
-npm install
-node server.js
-
-### Frontend
-cd frontend
-npm install
-npm start
+## File
+simple-interest.sh
